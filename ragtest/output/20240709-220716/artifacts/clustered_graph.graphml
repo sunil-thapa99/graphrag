@@ -1,0 +1,511 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d14" for="edge" attr.name="level" attr.type="long" />
+  <key id="d13" for="edge" attr.name="human_readable_id" attr.type="long" />
+  <key id="d12" for="edge" attr.name="id" attr.type="string" />
+  <key id="d11" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d10" for="edge" attr.name="description" attr.type="string" />
+  <key id="d9" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d8" for="node" attr.name="entity_type" attr.type="string" />
+  <key id="d7" for="node" attr.name="id" attr.type="string" />
+  <key id="d6" for="node" attr.name="human_readable_id" attr.type="long" />
+  <key id="d5" for="node" attr.name="degree" attr.type="long" />
+  <key id="d4" for="node" attr.name="level" attr.type="long" />
+  <key id="d3" for="node" attr.name="cluster" attr.type="string" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;PERSON&quot;">
+      <data key="d0">"PERSON"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+**PERSON**
+
+A **PERSON** is a developer or researcher who uses Convolutional Neural Networks (CNNs) in various applications such as computer vision, natural language processing, and autonomous vehicles. This individual may face challenges and limitations in developing accurate and reliable models, which they aim to address by working on making transformers more accessible and scalable.
+
+Note: The descriptions do not explicitly mention the PERSON's role or expertise beyond their use of CNNs, but it can be inferred that they are a machine learning researcher working to overcome the challenges and limitations of developing accurate and reliable models.</data>
+      <data key="d2">a3ab3d8c1e33e7f8dd574c6ee791c82c,dbe3016165bd0337671f6a43f95fe098,ef1878f03109dd64f3690259075d33d4</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">0</data>
+      <data key="d7">b45241d70f0e43fca764df95b2b81f77</data>
+    </node>
+    <node id="&quot;ORGANIZATION&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3ab3d8c1e33e7f8dd574c6ee791c82c,dbe3016165bd0337671f6a43f95fe098,ef1878f03109dd64f3690259075d33d4</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">1</data>
+      <data key="d7">4119fd06010c494caa07f439b333f4c5</data>
+    </node>
+    <node id="&quot;EVENT&quot;">
+      <data key="d0" />
+      <data key="d1">Here is a comprehensive summary of the data:
+
+**EVENT**
+
+The event refers to the ongoing process of developing transformer neural networks, which has future directions being explored. While not explicitly mentioned in the text, it can be inferred that this development is an ongoing process with new advancements and research being conducted. Furthermore, the future of machine learning holds immense promise as research and development continue to advance, with exciting directions such as integrating machine learning (ML) with other AI disciplines and advancements in quantum computing.</data>
+      <data key="d2">a3ab3d8c1e33e7f8dd574c6ee791c82c,dbe3016165bd0337671f6a43f95fe098,ef1878f03109dd64f3690259075d33d4</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">3</data>
+      <data key="d6">2</data>
+      <data key="d7">d3835bf3dda84ead99deadbeac5d0d7d</data>
+    </node>
+    <node id="&quot;FASTER R-CNN&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"Faster R-CNN is another computer vision system that leverages CNNs for object detection and localization in images."</data>
+      <data key="d2">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">3</data>
+      <data key="d7">077d2820ae1845bcbb1803379a3d1eae</data>
+    </node>
+    <node id="&quot;CNNS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+CNNS (Convolutional Neural Networks) are a type of deep learning algorithm used in various applications such as image classification, object detection, and natural language processing. While they excel in these areas, CNNS can struggle with understanding global context due to their inherent focus on local features.
+
+Note: I've combined the two descriptions into one, highlighting both the strengths and limitations of CNNS.</data>
+      <data key="d2">5703d16f120a55b49d962e0f87c3b03a,b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">4</data>
+      <data key="d6">4</data>
+      <data key="d7">3671ea0dd4e84c1a9b02c5ab2c8f4bac</data>
+    </node>
+    <node id="&quot;MEDICAL IMAGING&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Medical Imaging is an application where CNNs assist in diagnosing diseases by analyzing X-rays, MRIs, and CT scans."</data>
+      <data key="d2">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">5</data>
+      <data key="d7">19a7f254a5d64566ab5cc15472df02de</data>
+    </node>
+    <node id="&quot;YOLO&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d3">0</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">6</data>
+      <data key="d7">e7ffaee9d31d4d3c96e04f911d0a8f9e</data>
+    </node>
+    <node id="&quot;TRANSFER LEARNING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Transfer learning and data augmentation techniques are used to mitigate some limitations in CNNs."</data>
+      <data key="d2">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d5">1</data>
+      <data key="d6">7</data>
+      <data key="d7">f7e11b0e297a44a896dc67928368f600</data>
+    </node>
+    <node id="&quot;INTERPRETABILITY&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Interpretability is a concern for Convolutional Neural Networks, as they are often viewed as black-box models."</data>
+      <data key="d2">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d5">1</data>
+      <data key="d6">8</data>
+      <data key="d7">1fd3fa8bb5a2408790042ab9573779ee</data>
+    </node>
+    <node id="&quot;FUTURE DIRECTIONS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">Here is a comprehensive summary of the data:
+
+"FUTURE DIRECTIONS" refers to the potential advancements in the field of Convolutional Neural Networks (CNNs). According to available information, the future of CNNs holds exciting possibilities as researchers continue to innovate and address existing limitations. This suggests that ongoing efforts to improve and refine CNNs will lead to significant breakthroughs and applications in various fields.
+
+Note: Since there were no contradictory descriptions provided, this summary is a straightforward consolidation of the given information.</data>
+      <data key="d2">5703d16f120a55b49d962e0f87c3b03a,a3ab3d8c1e33e7f8dd574c6ee791c82c</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">9</data>
+      <data key="d7">27f9fbe6ad8c4a8b9acee0d3596ed57c</data>
+    </node>
+    <node id="&quot;RESEARCHERS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d3">2</data>
+      <data key="d4">0</data>
+      <data key="d5">2</data>
+      <data key="d6">10</data>
+      <data key="d7">e1fd0e904a53409aada44442f23a51cb</data>
+    </node>
+    <node id="&quot;MACHINE LEARNING RESEARCHER&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">a3ab3d8c1e33e7f8dd574c6ee791c82c</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">11</data>
+      <data key="d7">de988724cfdf45cebfba3b13c43ceede</data>
+    </node>
+    <node id="&quot;GRAPH NEURAL NETWORKS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">Here is the comprehensive summary:
+
+**GRAPH NEURAL NETWORKS**
+
+Graph Neural Networks are a class of machine learning algorithms designed to perform inference on data represented as graphs, which are a type of complex data structure. Specifically, they are a type of machine learning model that can process and interpret graph-structured data.</data>
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965,efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">4</data>
+      <data key="d6">12</data>
+      <data key="d7">96aad7cb4b7d40e9b7e13b94a67af206</data>
+    </node>
+    <node id="&quot;MACHINE LEARNING ALGORITHMS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Machine Learning Algorithms refer to a set of techniques used for making predictions or decisions based on data, including Graph Neural Networks."</data>
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d5">1</data>
+      <data key="d6">13</data>
+      <data key="d7">c9632a35146940c2a86167c7726d35e9</data>
+    </node>
+    <node id="&quot;GRAPHS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Graphs are data structures that consist of nodes and edges, representing relationships between entities."</data>
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d5">2</data>
+      <data key="d6">14</data>
+      <data key="d7">9646481f66ce4fd2b08c2eddda42fc82</data>
+    </node>
+    <node id="&quot;NODES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Nodes refer to the individual elements in a graph, which can represent entities or objects."</data>
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d5">1</data>
+      <data key="d6">15</data>
+      <data key="d7">d91a266f766b4737a06b0fda588ba40b</data>
+    </node>
+    <node id="&quot;EDGES&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Edges represent the relationships or connections between nodes in a graph."</data>
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d5">1</data>
+      <data key="d6">16</data>
+      <data key="d7">bc0e3f075a4c4ebbb7c7b152b65a5625</data>
+    </node>
+    <node id="&quot;INTRODUCTION TO GRAPH NEURAL NETWORKS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d5">1</data>
+      <data key="d6">17</data>
+      <data key="d7">254770028d7a4fa9877da4ba0ad5ad21</data>
+    </node>
+    <node id="&quot;GRNNS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"GRNNs utilize recurrent neural network architectures to capture temporal or sequential dependencies in dynamic graphs."</data>
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">1</data>
+      <data key="d6">18</data>
+      <data key="d7">4a67211867e5464ba45126315a122a8a</data>
+    </node>
+    <node id="&quot;GATS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">1</data>
+      <data key="d6">19</data>
+      <data key="d7">04dbbb2283b845baaeac0eaf0c34c9da</data>
+    </node>
+    <node id="&quot;SOCIAL NETWORK ANALYSIS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Social Network Analysis is a field that applies Graph Neural Networks to predict user behavior, detect communities, and recommend friends or content."</data>
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">1</data>
+      <data key="d6">20</data>
+      <data key="d7">1943f245ee4243bdbfbd2fd619ae824a</data>
+    </node>
+    <node id="&quot;CHEMISTRY&quot;">
+      <data key="d0">"FIELD"</data>
+      <data key="d1">"Graph Neural Networks are used in Chemistry to predict molecular properties, aiding in drug discovery and material science."</data>
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">1</data>
+      <data key="d6">21</data>
+      <data key="d7">273daeec8cad41e6b3e450447db58ee7</data>
+    </node>
+    <node id="&quot;KNOWLEDGE GRAPHS&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Knowledge Graphs benefit from Graph Neural Networks through improved entity recognition and relationship extraction."</data>
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">1</data>
+      <data key="d6">22</data>
+      <data key="d7">e69dc259edb944ea9ea41264b9fcfe59</data>
+    </node>
+    <node id="&quot;GNNS&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d5">3</data>
+      <data key="d6">23</data>
+      <data key="d7">e2f5735c7d714423a2c4f61ca2644626</data>
+    </node>
+    <node id="&quot;GEO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"No geo-related entities are mentioned in the text."</data>
+      <data key="d2">dbe3016165bd0337671f6a43f95fe098</data>
+      <data key="d5">0</data>
+      <data key="d6">24</data>
+      <data key="d7">deece7e64b2a4628850d4bb6e394a9c3</data>
+    </node>
+    <node id="&quot;TRANSFORMER NEURAL NETWORKS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Transformers are a type of neural network architecture that has shown promise in various applications."</data>
+      <data key="d2">dbe3016165bd0337671f6a43f95fe098</data>
+      <data key="d3">1</data>
+      <data key="d4">0</data>
+      <data key="d5">1</data>
+      <data key="d6">25</data>
+      <data key="d7">e657b5121ff8456b9a610cfaead8e0cb</data>
+    </node>
+    <node id="&quot;MACHINE LEARNING&quot;">
+      <data key="d0">"TECHNOLOGY"</data>
+      <data key="d1">"Machine Learning is a technology that drives innovation and breakthroughs across various fields."</data>
+      <data key="d2">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d8">"TECHNOLOGY"</data>
+      <data key="d5">1</data>
+      <data key="d6">26</data>
+      <data key="d7">bf4e255cdac94ccc83a56435a5e4b075</data>
+    </node>
+    <node id="&quot;INNOVATION&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Innovation refers to the process of creating new or improved products, processes, or services."</data>
+      <data key="d2">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d8">"CONCEPT"</data>
+      <data key="d5">1</data>
+      <data key="d6">27</data>
+      <data key="d7">3b040bcc19f14e04880ae52881a89c1c</data>
+    </node>
+    <node id="&quot;BREAKTHROUGHS&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Breakthroughs refer to significant advancements or discoveries in a particular field."</data>
+      <data key="d2">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d8">"EVENT"</data>
+      <data key="d5">1</data>
+      <data key="d6">28</data>
+      <data key="d7">3d6b216c14354332b1bf1927ba168986</data>
+    </node>
+    <node id="&quot;FIELDS&quot;">
+      <data key="d0">"CONCEPT"</data>
+      <data key="d1">"Fields refer to specific areas of study or application, such as medicine, finance, or education."</data>
+      <data key="d2">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d8">"CONCEPT"</data>
+      <data key="d5">1</data>
+      <data key="d6">29</data>
+      <data key="d7">1c109cfdc370463eb6d537e5b7b382fb</data>
+    </node>
+    <node id="&quot;AI&quot;">
+      <data key="d0" />
+      <data key="d1" />
+      <data key="d2">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d5">2</data>
+      <data key="d6">30</data>
+      <data key="d7">3d0dcbc8971b415ea18065edc4d8c8ef</data>
+    </node>
+    <edge source="&quot;PERSON&quot;" target="&quot;ORGANIZATION&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">Here is a comprehensive summary of the data:
+
+The PERSON is working on addressing the challenges faced by the ORGANIZATION to make transformers more accessible and scalable. Additionally, the ORGANIZATION is involved with the PERSON who develops or uses Convolutional Neural Networks (CNNs) in various applications.
+
+Note: I've resolved any potential contradictions by combining the information from both descriptions into a single summary that provides a comprehensive overview of the relationship between the PERSON and the ORGANIZATION.</data>
+      <data key="d11">dbe3016165bd0337671f6a43f95fe098,ef1878f03109dd64f3690259075d33d4</data>
+      <data key="d12">68105770b523412388424d984e711917</data>
+      <data key="d13">0</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;PERSON&quot;" target="&quot;EVENT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Machine learning researchers are involved in shaping the future landscape of machine learning, making it an indispensable tool in various fields."</data>
+      <data key="d11">a3ab3d8c1e33e7f8dd574c6ee791c82c</data>
+      <data key="d12">85c79fd84f5e4f918471c386852204c5</data>
+      <data key="d13">1</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ORGANIZATION&quot;" target="&quot;EVENT&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The organization's work on CNNs can be used for real-time applications like object detection and facial recognition, which are events."</data>
+      <data key="d11">ef1878f03109dd64f3690259075d33d4</data>
+      <data key="d12">eae4259b19a741ab9f9f6af18c4a0470</data>
+      <data key="d13">2</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ORGANIZATION&quot;" target="&quot;MACHINE LEARNING RESEARCHER&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Machine learning researchers are part of the organization that showcases the transformative potential of machine learning in transportation."</data>
+      <data key="d11">a3ab3d8c1e33e7f8dd574c6ee791c82c</data>
+      <data key="d12">3138f39f2bcd43a69e0697cd3b05bc4d</data>
+      <data key="d13">3</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;ORGANIZATION&quot;" target="&quot;FUTURE DIRECTIONS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The organization is working towards realizing the exciting directions and advancements in machine learning, such as integrating ML with other AI disciplines and advancements in quantum computing."</data>
+      <data key="d11">a3ab3d8c1e33e7f8dd574c6ee791c82c</data>
+      <data key="d12">dde131ab575d44dbb55289a6972be18f</data>
+      <data key="d13">4</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;EVENT&quot;" target="&quot;TRANSFORMER NEURAL NETWORKS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The development of transformer neural networks is an ongoing process with future directions being explored."</data>
+      <data key="d11">dbe3016165bd0337671f6a43f95fe098</data>
+      <data key="d12">de9e343f2e334d88a8ac7f8813a915e5</data>
+      <data key="d13">5</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FASTER R-CNN&quot;" target="&quot;CNNS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Faster R-CNN also employs CNNs for object detection and localization in images."</data>
+      <data key="d11">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d12">e2bf260115514fb3b252fd879fb3e7be</data>
+      <data key="d13">6</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CNNS&quot;" target="&quot;YOLO&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"YOLO uses Convolutional Neural Networks (CNNs) to identify and localize objects within images."</data>
+      <data key="d11">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d12">b462b94ce47a4b8c8fffa33f7242acec</data>
+      <data key="d13">7</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CNNS&quot;" target="&quot;MEDICAL IMAGING&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Medical Imaging uses CNNs to assist in diagnosing diseases by analyzing X-rays, MRIs, and CT scans."</data>
+      <data key="d11">b315ffe82720c37861bdd4f45f772e00</data>
+      <data key="d12">17ed1d92075643579a712cc6c29e8ddb</data>
+      <data key="d13">8</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CNNS&quot;" target="&quot;RESEARCHERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Researchers work on improving Convolutional Neural Networks, addressing their limitations and developing new architectures."</data>
+      <data key="d11">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d12">3ce7c210a21b4deebad7cc9308148d86</data>
+      <data key="d13">9</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;TRANSFER LEARNING&quot;" target="&quot;INTERPRETABILITY&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Transfer learning is used to improve the interpretability of CNNs, making them more transparent and efficient."</data>
+      <data key="d11">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d12">d64ed762ea924caa95c8d06f072a9a96</data>
+      <data key="d13">10</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FUTURE DIRECTIONS&quot;" target="&quot;RESEARCHERS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The future directions in Convolutional Neural Networks are driven by researchers who continue to innovate and address existing limitations."</data>
+      <data key="d11">5703d16f120a55b49d962e0f87c3b03a</data>
+      <data key="d12">adf4ee3fbe9b4d0381044838c4f889c8</data>
+      <data key="d13">11</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPH NEURAL NETWORKS&quot;" target="&quot;INTRODUCTION TO GRAPH NEURAL NETWORKS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"The Introduction to Graph Neural Networks discusses the basics of Graph Neural Networks, which are machine learning algorithms designed for graph-structured data."</data>
+      <data key="d11">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d12">32ee140946e5461f9275db664dc541a5</data>
+      <data key="d13">12</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPH NEURAL NETWORKS&quot;" target="&quot;MACHINE LEARNING ALGORITHMS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Machine Learning Algorithms include Graph Neural Networks, a type of algorithm used for making predictions or decisions based on graph-structured data."</data>
+      <data key="d11">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d12">c160b9cb27d6408ba6ab20214a2f3f81</data>
+      <data key="d13">13</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPH NEURAL NETWORKS&quot;" target="&quot;GRNNS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"GRNNs are another type of Graph Neural Network, used for capturing temporal or sequential dependencies in dynamic graphs."</data>
+      <data key="d11">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d12">23527cd679ff4d5a988d52e7cd056078</data>
+      <data key="d13">14</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPH NEURAL NETWORKS&quot;" target="&quot;GATS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"GATs are a type of Graph Neural Network, enhancing the processing and interpretation of graph-structured data."</data>
+      <data key="d11">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d12">f1c6eed066f24cbdb376b910fce29ed4</data>
+      <data key="d13">15</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPHS&quot;" target="&quot;NODES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Graphs consist of nodes and edges, representing relationships between entities, with nodes being the individual elements in a graph."</data>
+      <data key="d11">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d12">83a6cb03df6b41d8ad6ee5f6fef5f024</data>
+      <data key="d13">16</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;GRAPHS&quot;" target="&quot;EDGES&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Edges represent the relationships or connections between nodes in a graph, which is a fundamental aspect of graphs."</data>
+      <data key="d11">7b4e128a12389cacb693c4d1cf7a7965</data>
+      <data key="d12">147c038aef3e4422acbbc5f7938c4ab8</data>
+      <data key="d13">17</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;SOCIAL NETWORK ANALYSIS&quot;" target="&quot;GNNS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Graph Neural Networks are used in Social Network Analysis to predict user behavior, detect communities, and recommend friends or content."</data>
+      <data key="d11">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d12">b7702b90c7f24190b864e8c6e64612a5</data>
+      <data key="d13">18</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;CHEMISTRY&quot;" target="&quot;GNNS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Graph Neural Networks are applied in Chemistry to predict molecular properties, aiding in drug discovery and material science."</data>
+      <data key="d11">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d12">de6fa24480894518ab3cbcb66f739266</data>
+      <data key="d13">19</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;KNOWLEDGE GRAPHS&quot;" target="&quot;GNNS&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"Graph Neural Networks benefit Knowledge Graphs through improved entity recognition and relationship extraction."</data>
+      <data key="d11">efd8fda36bf6f6b3824489af108b519a</data>
+      <data key="d12">6fae5ee1a831468aa585a1ea09095998</data>
+      <data key="d13">20</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;MACHINE LEARNING&quot;" target="&quot;AI&quot;">
+      <data key="d9">1.0</data>
+      <data key="d10">"AI and Machine Learning are related technologies that drive innovation and breakthroughs across various fields."</data>
+      <data key="d11">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d12">ef32c4b208d041cc856f6837915dc1b0</data>
+      <data key="d13">21</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;INNOVATION&quot;" target="&quot;BREAKTHROUGHS&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">"Innovation leads to Breakthroughs, which are significant advancements or discoveries in a particular field."</data>
+      <data key="d11">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d12">07b2425216bd4f0aa4e079827cb48ef5</data>
+      <data key="d13">22</data>
+      <data key="d14">0</data>
+    </edge>
+    <edge source="&quot;FIELDS&quot;" target="&quot;AI&quot;">
+      <data key="d9">2.0</data>
+      <data key="d10">"AI drives innovation and breakthroughs across various Fields, such as medicine, finance, or education."</data>
+      <data key="d11">7befbf2cdd18e8189b0f6e34637a77f3</data>
+      <data key="d12">2670deebfa3f4d69bb82c28ab250a209</data>
+      <data key="d13">23</data>
+      <data key="d14">0</data>
+    </edge>
+  </graph>
+</graphml>

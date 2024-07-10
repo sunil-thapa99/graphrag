@@ -1,5 +1,5 @@
 ### Command for Graph RAG
--   python -m graphrag.index --init --root ./ragtest -> initiate the index
+- python -m graphrag.index --init --root ./ragtest -> initiate the index
 
 - python -m graphrag.index --root ./ragtest
 

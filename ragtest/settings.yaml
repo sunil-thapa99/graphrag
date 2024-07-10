@@ -4,13 +4,11 @@ skip_workflows: []
 llm:
   api_key: ${GRAPHRAG_API_KEY}
   type: openai_chat # or azure_openai_chat
-  # model: gpt-4-turbo-preview
-  model: mistral
+  model: llama3
   model_supports_json: true # recommended if this is available for your model.
   # max_tokens: 4000
   # request_timeout: 180.0
-  # api_base: https://<instance>.openai.azure.com
-  api_base: http://localhost:11434/v1 # Default URL of ollama
+  api_base: http://localhost:11434/v1
   # api_version: 2024-02-15-preview
   # organization: <organization_id>
   # deployment_name: <azure_model_deployment_name>
@@ -33,10 +31,8 @@ embeddings:
   llm:
     api_key: ${GRAPHRAG_API_KEY}
     type: openai_embedding # or azure_openai_embedding
-    # model: text-embedding-3-small
-    model: nomic-embed-text
+    model: nomic_embed_text
     api_base: http://localhost:11434/api
-    # api_base: https://<instance>.openai.azure.com
     # api_version: 2024-02-15-preview
     # organization: <organization_id>
     # deployment_name: <azure_model_deployment_name>
@@ -129,9 +125,9 @@ umap:
   enabled: false # if true, will generate UMAP embeddings for nodes
 
 snapshots:
-  graphml: false
-  raw_entities: false
-  top_level_nodes: false
+  graphml: yes
+  raw_entities: yes
+  top_level_nodes: yes
 
 local_search:
   # text_unit_prop: 0.5
